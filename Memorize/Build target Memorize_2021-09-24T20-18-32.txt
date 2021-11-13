@@ -1,0 +1,6 @@
+
+Showing Recent Messages
+No account for team "WQ33LA2JZ5". Add a new account in the Accounts preference pane or verify that your accounts have valid credentials.
+
+No profiles for 'obrienser.Memorize' were found: Xcode couldn't find any iOS App Development provisioning profiles matching 'obrienser.Memorize'.
+
